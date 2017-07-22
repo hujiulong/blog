@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+$color-black:   #111;
+$color-gray:    #aaa;
+$color-silver:  #ddd;
+$color-white:   #fff;
+$color-aqua:    #7fdbff;
+$color-blue:    #0074d9;
+$color-navy:    #001f3f;
+$color-teal:    #39cccc;
+$color-green:   #2ecc40;
+$color-olive:   #3d9970;
+$color-lime:    #01ff70;
+$color-yellow:  #ffdc00;
+$color-orange:  #ff851b;
+$color-red:     #ff4136;
+$color-fuchsia: #f012be;
+$color-purple:  #b10dc9;
+$color-maroon:  #85144b;
+
+.black   { color: $color-black; }
+.gray    { color: $color-gray; }
+.silver  { color: $color-silver; }
+.white   { color: $color-white; }
+.aqua    { color: $color-aqua; }
+.blue    { color: $color-blue; }
+.navy    { color: $color-navy; }
+.teal    { color: $color-teal; }
+.green   { color: $color-green; }
+.olive   { color: $color-olive; }
+.lime    { color: $color-lime; }
+.yellow  { color: $color-yellow; }
+.orange  { color: $color-orange; }
+.red     { color: $color-red; }
+.fuchsia { color: $color-fuchsia; }
+.purple  { color: $color-purple; }
+.maroon  { color: $color-maroon; }
