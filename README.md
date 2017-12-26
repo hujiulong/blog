@@ -1,2 +1,0 @@
-# blog
-Jiulong's blog
