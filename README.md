@@ -11,4 +11,4 @@
 * [用canvas绘制一个曲线动画——深入理解贝塞尔曲线](https://github.com/hujiulong/blog/issues/1)
 
 ## 其他
-* [怎样给文件命名显得比较专业](https://github.com/hujiulong/blog/issues/3)
+* [无聊系列：怎样给文件命名显得比较专业](https://github.com/hujiulong/blog/issues/3)
