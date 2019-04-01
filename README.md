@@ -1,4 +1,6 @@
 # Blog
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 我的技术博客，不定时更新
 
 收藏点star，订阅点watch
